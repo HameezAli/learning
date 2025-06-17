@@ -1,1 +1,2 @@
 File A
+this is line 2
